@@ -1,0 +1,94 @@
+repo_name: watain666/LyricsX
+report_id: c83e7460c54e3d0d11218fe77ca7ef19
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-30T02:19:55+00:00'
+requested_by: fharper
+provider: github
+branch: master
+detected_tools_count: 7
+tools:
+- name: Swift
+  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/watain666/LyricsX
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/watain666/LyricsX
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/watain666/LyricsX/blob/master/.github/workflows/update-gh-pages.yml
+  detection_source: ".github/workflows/update-gh-pages.yml"
+  last_updated_by: Xander Deng
+  last_updated_on: 2020-05-28 16:00:21.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/watain666/LyricsX
+  detection_source: Repo Metadata
+- name: SnapKit/SnapKit
+  description: A Swift Autolayout DSL for iOS &amp; OS X
+  package_url: https://github.com/Carthage/SnapKit/SnapKit
+  version: 5.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/carthage/image.png
+  detection_source_url: https://github.com/watain666/LyricsX/blob/master/Cartfile.resolved
+  detection_source: Cartfile
+  last_updated_by: Xander Deng
+  last_updated_on: 2019-09-17 04:47:48.000000000 Z
+- name: shpakovski/MASShortcut
+  description: Modern framework for managing global keyboard shortcuts compatible
+    with Mac App Store
+  package_url: https://github.com/Carthage/shpakovski/MASShortcut
+  version: 2.4.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/carthage/image.png
+  detection_source_url: https://github.com/watain666/LyricsX/blob/master/Cartfile.resolved
+  detection_source: Cartfile
+  last_updated_by: Xander Deng
+  last_updated_on: 2017-06-25 09:42:22.000000000 Z
+- name: sparkle-project/Sparkle
+  description: A software update framework for macOS
+  package_url: https://github.com/Carthage/sparkle-project/Sparkle
+  version: 1.23.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/carthage/image.png
+  detection_source_url: https://github.com/watain666/LyricsX/blob/master/Cartfile.resolved
+  detection_source: Cartfile
+  last_updated_by: ddddxxx
+  last_updated_on: 2018-09-20 09:13:07.000000000 Z
